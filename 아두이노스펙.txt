@@ -1,0 +1,10 @@
+아두이노(이탈리아어: Arduino 아르두이노[*])는 오픈 소스를 기반으로
+한 단일 보드 마이크로컨트롤러로 완성된 보드(상품)와 관련 개발 도구(IDE) 및 환경을 말한다.
+2005년 이탈리아의 IDII(Interaction Design Institutelvera)에서 석사생이었던 
+페르난도 바라간(Hernando Barragán)이 하드웨어에 익숙지 않은 학생들이
+자신들의 디자인 작품을 손쉽게 제어할 수 있게 하려고 고안한 와이어링(wiring)이라는 싱글보드(atmega1281 사용)를, 
+ 바라간의 지도교수였던 마시모 반지(Massimo Banzi)가 후에 아두이노라는 이름으로 보다 적은 IO핀을 가진 
+저렴한 프로세서(ATmega8)를 기반으로 만들어졌으며, 현재도 아트멜 AVR 계열의 보드가 가장 많이 판매되고 있고 
+교육용으로도 가장 많이 사용(UNO R3, ATmega328)되고 있다. 
+ARM 계열의 Cortex-M0(Arduino M0 Pro)과 Cortex-M3(Arduino Due)를 이용한 제품도 존재하며 
+2023년 arduino uno R4는 Renesas에서 개발한 RA4M1 32비트 ARM 마이크로 콘트롤러를 사용하게 되었다.
